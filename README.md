@@ -1,2 +1,2 @@
-# code-for-corona-howie-part2
+# codeforcorona
 Code for corona code!
